@@ -1,8 +1,8 @@
-## John Solomon 
+## Oluwatobi Alabi
 
-### Web Development and Data Science
+### Data Science
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JolomonSon&show_icons=true&include_all_commits=true&theme=aura&hide_border=true" alt="github stats"/></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwatobi Alabi&layout=compact&theme=aura&hide_border=true" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Oluwatobi Alabi&show_icons=true&include_all_commits=true&theme=aura&hide_border=true" alt="github stats"/></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oluwatobi Alabi&layout=compact&theme=aura&hide_border=true" /></a> |
 | ------------- | ------------- | 
 
 
